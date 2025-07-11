@@ -24,3 +24,42 @@ return 1;
 }
 return 0;
 }
+
+# Hi there, I'm Sairaj Chowdhary 👋
+
+**Data Scientist & Student**  
+Passionate about leveraging data to solve real-world problems and building impactful web applications.
+
+---
+
+## 🚀 Skills
+
+- **Languages:** Python, C++
+- **Machine Learning:** Scikit-learn, Pandas, NumPy
+- **Web Development:** HTML, CSS, Vue.js, Chart.js, Tailwind CSS
+- **Others:** Problem-solving, Data Visualization, API integration
+
+---
+
+## 🌟 Featured Projects
+
+- [**SairajsFinanceClub**](https://github.com/SairajChowdhary/SairajsFinanceClub)  
+  _A platform for financial analytics and tools, empowering users to make smarter money decisions._
+
+- [**API-tite**](https://github.com/SairajChowdhary/API-tite)  
+  _A flexible framework for building and consuming APIs with ease._
+
+- [**AD-recommendation**](https://github.com/SairajChowdhary/AD-recommendation)  
+  _A machine learning project focused on advanced ad recommendation systems._
+
+---
+
+## 📈 GitHub Stats
+
+![SairajChowdhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SairajChowdhary&show_icons=true&theme=radical)
+
+---
+
+<!--
+Want to connect or know more? Add your social links or a fun fact here!
+-->
