@@ -36,8 +36,8 @@ Passionate about leveraging data to solve real-world problems and building impac
 
 - **Languages:** Python, C++
 - **Machine Learning:** Scikit-learn, Pandas, NumPy
-- **Web Development:** HTML, CSS, Vue.js, Chart.js, Tailwind CSS
-- **Others:** Problem-solving, Data Visualization, API integration
+- **Web Development:** HTML, CSS, Anime.js, Chart.js, Tailwind CSS
+- **Others:** Problem-solving, Data Visualization.
 
 ---
 
