@@ -13,7 +13,7 @@ Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0]
 
 ###
 
-<img align="right" height="150" src="https://makeagif.com/i/ZCsjru"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/135/135971.gif"  />
 
 ###
 
