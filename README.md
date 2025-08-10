@@ -1,5 +1,58 @@
 # 💫 About Me:
-Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) { return 1; } } if (enemyY[1] + 4 >= 23) { if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) { return 1; } } return 0; }<br><br>Hi there, I'm Sairaj Chowdhary 👋<br>Data Scientist & Student<br>Passionate about leveraging data to solve real-world problems and building impactful web applications.<br><br>🚀 Skills<br>Languages: Python, C++<br>Machine Learning: Scikit-learn, Pandas, NumPy<br>Web Development: HTML, CSS, Anime.js, Chart.js, Tailwind CSS<br>Others: Problem-solving, Data Visualisation.  <br><br>🌟 Featured Projects <br><br>[SairajsFinanceClub](https://github.com/SairajChowdhary/SairajsFinanceClub.git) A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>[API-tite](https://github.com/SairajChowdhary/API-tite.git)<br>A flexible framework for building and consuming APIs with ease.<br><br>[AD-recommendation](https://github.com/SairajChowdhary/AD-recommendation.git)<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E0a3p6a3Foa3ZnZWE4Y2d6Z3h1a3F3NWNoeHR3c2R5N2JtZXd1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Namaste GIF"/>
+
+# 👋 नमस्ते, I'm Sairaj Chowdhary!
+
+```c
+int collision() {
+    if (enemyY[0] + 4 >= 23) { 
+        if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) { 
+            return 1; 
+        } 
+    } 
+    if (enemyY[1] + 4 >= 23) { 
+        if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) { 
+            return 1; 
+        } 
+    } 
+    return 0; 
+}
+```
+
+✨ **Data Scientist & Student**  
+💡 _Turning data into insight, and code into impact._
+
+---
+
+## 🚀 My Tech Stack
+
+**Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+**Machine Learning**  
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+**Web Development**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anime.js-black?style=for-the-badge&logo=anime.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+**Others**  
+🎯 Problem-solving • 📊 Data Visualization
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=I+love+to+create+cool+data+projects!;Always+learning+something+new.;Let's+connect+and+build+something+awesome!" alt="Animated Typing SVG" />
+
+</div>
+
+<br><br>🌟 Featured Projects <br><br>[SairajsFinanceClub](https://github.com/SairajChowdhary/SairajsFinanceClub.git) A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>[API-tite](https://github.com/SairajChowdhary/API-tite.git)<br>A flexible framework for building and consuming APIs with ease.<br><br>[AD-recommendation](https://github.com/SairajChowdhary/AD-recommendation.git)<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
 
 <h1 align="center">Hey 👋What's Up?</h1>
 <h2 align="left">Hi 👋! This is Sairaj, and I do data mining</h2>
