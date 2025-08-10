@@ -39,7 +39,9 @@
 
 </div>
 
-<br><br>🌟 Featured Projects <br><br>[SairajsFinanceClub](https://github.com/SairajChowdhary/SairajsFinanceClub.git) <br>A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>[API-tite](https://github.com/SairajChowdhary/API-tite.git)<br>A flexible framework for building and consuming APIs with ease.<br><br>[AD-recommendation](https://github.com/SairajChowdhary/AD-recommendation.git)<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
+<br><br>🌟 Featured Projects <br><br>[SairajsFinanceClub](https://github.com/SairajChowdhary/SairajsFinanceClub.git) <br>A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>[API-tite](https://github.com/SairajChowdhary/API-tite.git)<br>A flexible framework for building and consuming APIs with ease.<br><br>[AD-recommendation](https://github.com/SairajChowdhary/AD-recommendation.git)<br>A machine learning project focused on advanced ad recommendation systems. 
+<br><br>I am an aspiring Data analyst.
+<br>I worked on multiple projects that can amplify real-time applications.<br>
 
 
 <picture>
