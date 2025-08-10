@@ -3,7 +3,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E0a3p6a3Foa3ZnZWE4Y2d6Z3h1a3F3NWNoeHR3c2R5N2JtZXd1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Namaste GIF"/>
 
-# 👋 नमस्ते, I'm Sairaj Chowdhary!
+# 👋 నమస్తే, I'm Sairaj Chowdhary!
 
 ```c
 int collision() {
