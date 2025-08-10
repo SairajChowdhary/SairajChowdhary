@@ -34,12 +34,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=I+love+to+create+cool+data+projects!;Always+learning+something+new.;Let's+connect+and+build+something+awesome!" alt="Animated Typing SVG" />
 
+<h1 align="center">Hey checkout my work?</h1>
+<h2 align="left"> I've worked on data mining</h2>
+
 </div>
 
 <br><br>🌟 Featured Projects <br><br>[SairajsFinanceClub](https://github.com/SairajChowdhary/SairajsFinanceClub.git) A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>[API-tite](https://github.com/SairajChowdhary/API-tite.git)<br>A flexible framework for building and consuming APIs with ease.<br><br>[AD-recommendation](https://github.com/SairajChowdhary/AD-recommendation.git)<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
-
-<h1 align="center">Hey 👋What's Up?</h1>
-<h2 align="left">Hi 👋! This is Sairaj, and I do data mining</h2>
 
 
 <picture>
