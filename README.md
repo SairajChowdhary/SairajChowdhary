@@ -48,7 +48,7 @@ Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0]
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://makeagif.com/i/ZCsjru" alt="Snake animation" />
 
 ###
 
