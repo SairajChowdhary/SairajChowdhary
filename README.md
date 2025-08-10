@@ -40,8 +40,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SairajChowdhary/SairajChowdhary/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=I+love+to+create+cool+data+projects!;Always+learning+something+new.;Let's+connect+and+build+something+awesome!" alt="Animated Typing SVG" />
 
