@@ -2,6 +2,12 @@
 Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) { return 1; } } if (enemyY[1] + 4 >= 23) { if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) { return 1; } } return 0; }<br><br>Hi there, I'm Sairaj Chowdhary 👋<br>Data Scientist & Student<br>Passionate about leveraging data to solve real-world problems and building impactful web applications.<br><br>🚀 Skills<br>Languages: Python, C++<br>Machine Learning: Scikit-learn, Pandas, NumPy<br>Web Development: HTML, CSS, Anime.js, Chart.js, Tailwind CSS<br>Others: Problem-solving, Data Visualisation.  <br>🌟 Featured Projects<br>SairajsFinanceClub<br>A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>API-tite<br>A flexible framework for building and consuming APIs with ease.<br><br>AD-recommendation<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
 
 <h1 align="center">Hey 👋What's Up?</h1>
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -45,12 +51,6 @@ Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0]
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 ## 🌐 Socials:
