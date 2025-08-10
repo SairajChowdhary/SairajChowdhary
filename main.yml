@@ -1,0 +1,10 @@
+import { generatePacManGame } from 'pacman-contribution-graph';
+
+generatePacManGame({
+	username: 'SairajChowdhary',
+	platform: 'github', 
+	theme: 'github-dark',
+	speed: 1,
+	sound: true,
+	output: 'svg' 
+});
