@@ -3,23 +3,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E0a3p6a3Foa3ZnZWE4Y2d6Z3h1a3F3NWNoeHR3c2R5N2JtZXd1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Namaste GIF"/>
 
-# 👋 నమస్తే, I'm Sairaj Chowdhary!
-
-```c
-int collision() {
-    if (enemyY[0] + 4 >= 23) { 
-        if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) { 
-            return 1; 
-        } 
-    } 
-    if (enemyY[1] + 4 >= 23) { 
-        if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) { 
-            return 1; 
-        } 
-    } 
-    return 0; 
-}
-```
+#  🙏 నమస్తే, I'm Sairaj Chowdhary!
 
 ✨ **Data Scientist & Student**  
 💡 _Turning data into insight, and code into impact._
