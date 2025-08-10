@@ -1,11 +1,11 @@
 name: generate pacman game
 on:
-  schedule:
-    - cron: "0 */24 * * *"  # Runs daily
-  workflow_dispatch:        # Optional: manual trigger
   push:
     branches:
-      - main                # Or your default branch
+      - main                # Runs immediately after pushing to main
+  schedule:
+    - cron: "0 */24 * * *"  # Runs daily
+  workflow_dispatch:        # Allows manual trigger
 jobs:
   generate:
     permissions:
