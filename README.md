@@ -1,178 +1,27 @@
-### Namaste🙏🏻
+# 💫 About Me:
+Namaste🙏🏻<br>int collision() {<br>if (enemyY[0] + 4 >= 23) { if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) { return 1; } } if (enemyY[1] + 4 >= 23) { if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) { return 1; } } return 0; }<br><br>Hi there, I'm Sairaj Chowdhary 👋<br>Data Scientist & Student<br>Passionate about leveraging data to solve real-world problems and building impactful web applications.<br><br>🚀 Skills<br>Languages: Python, C++<br>Machine Learning: Scikit-learn, Pandas, NumPy<br>Web Development: HTML, CSS, Anime.js, Chart.js, Tailwind CSS<br>Others: Problem-solving, Data Visualisation.<br>🌟 Featured Projects<br>SairajsFinanceClub<br>A platform for financial analytics and tools, empowering users to make smarter money decisions.<br><br>API-tite<br>A flexible framework for building and consuming APIs with ease.<br><br>AD-recommendation<br>A machine learning project focused on advanced ad recommendation systems. I am an aspiring Data analyst.<br>I worked on multiple projects that can amplify real-time applications.<br>
 
-<!--
-**SairajChowdhary/SairajChowdhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on improving my Competitive programming and Data structures design.
-- 🌱 I’m currently learning C++ and DSA.
-- 👯 I’m looking to collaborate on game dev and systems design.
-- 🤔 I’m looking for help with C++ advanced Programming.
-- 💬 Ask me about C/C++ or Webdev.
-- 📫 How to reach me: 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sairaj-Chowdhary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dantevale) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31246691) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@LucasDopamine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dantevale333@gmail.com) 
 
-If you are facing an issue or error with 2nd car collision, here's how to fix it.
---> int collision() {
-if (enemyY[0] + 4 >= 23) {
-if (enemyX[0] + 4 - carPos >= 0 && enemyX[0] + 4 - carPos < 9) {
-return 1;
-}
-}
-if (enemyY[1] + 4 >= 23) {
-if (enemyX[1] + 4 - carPos >= 0 && enemyX[1] + 4 - carPos < 9) {
-return 1;
-}
-}
-return 0;
-}
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=plastic&logo=neo4j&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=plastic&logo=Ubisoft&logoColor=black) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=plastic&logo=Meta&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SairajChowdhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SairajChowdhary&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SairajChowdhary&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# Hi there, I'm Sairaj Chowdhary 👋
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SairajChowdhary&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**Data Scientist & Student**  
-Passionate about leveraging data to solve real-world problems and building impactful web applications.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SairajChowdhary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=SairajChowdhary&icon=2&color=11)](https://visitcount.itsvg.in)
 
-## 🚀 Skills
-
-- **Languages:** Python, C++
-- **Machine Learning:** Scikit-learn, Pandas, NumPy
-- **Web Development:** HTML, CSS, Anime.js, Chart.js, Tailwind CSS
-- **Others:** Problem-solving, Data Visualization.
-
----
-
-## 🌟 Featured Projects
-
-- [**SairajsFinanceClub**](https://github.com/SairajChowdhary/SairajsFinanceClub)  
-  _A platform for financial analytics and tools, empowering users to make smarter money decisions._
-
-- [**API-tite**](https://github.com/SairajChowdhary/API-tite)  
-  _A flexible framework for building and consuming APIs with ease._
-
-- [**AD-recommendation**](https://github.com/SairajChowdhary/AD-recommendation)  
-  _A machine learning project focused on advanced ad recommendation systems._
-
----
-
-## 📈 GitHub Stats
-
-![SairajChowdhary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SairajChowdhary&show_icons=true&theme=radical)
-
----
-<!-- Game-like Racing Animation -->
-<p align="center">
-  <svg width="500" height="160" viewBox="0 0 500 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="500" height="160" fill="#191970"/>
-    <!-- Road -->
-    <rect y="100" width="500" height="35" fill="#444"/>
-    <!-- Finish Line -->
-    <g>
-      <rect x="420" y="80" width="12" height="55" fill="#fff" />
-      <rect x="420" y="80" width="6" height="6" fill="#000"/>
-      <rect x="426" y="86" width="6" height="6" fill="#000"/>
-      <rect x="420" y="92" width="6" height="6" fill="#000"/>
-      <rect x="426" y="98" width="6" height="6" fill="#000"/>
-      <rect x="420" y="104" width="6" height="6" fill="#000"/>
-      <rect x="426" y="110" width="6" height="6" fill="#000"/>
-      <rect x="420" y="116" width="6" height="6" fill="#000"/>
-      <rect x="426" y="122" width="6" height="6" fill="#000"/>
-    </g>
-    <!-- Racing Car -->
-    <g>
-      <rect id="car" x="40" y="110" width="55" height="20" rx="8" fill="#FF3B3F">
-        <animate attributeName="x" values="40;400;40" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </rect>
-      <!-- Car Windows -->
-      <rect x="50" y="114" width="15" height="8" rx="2" fill="#87CEEB">
-        <animate attributeName="x" values="50;410;50" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </rect>
-      <!-- Wheels -->
-      <circle cx="55" cy="132" r="5" fill="#222">
-        <animate attributeName="cx" values="55;415;55" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="85" cy="132" r="5" fill="#222">
-        <animate attributeName="cx" values="85;445;85" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </circle>
-      <!-- Speed Lines -->
-      <rect x="33" y="120" width="12" height="2" fill="#FFD700" opacity="0.6">
-        <animate attributeName="x" values="33;393;33" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </rect>
-      <rect x="30" y="125" width="8" height="2" fill="#00FFE7" opacity="0.7">
-        <animate attributeName="x" values="30;390;30" keyTimes="0;0.5;1" dur="4s" repeatCount="indefinite" />
-      </rect>
-    </g>
-    <!-- Road Stripes -->
-    <g>
-      <rect x="0" y="117" width="38" height="4" fill="#fff">
-        <animate attributeName="x" from="0" to="500" dur="2s" repeatCount="indefinite" />
-      </rect>
-      <rect x="100" y="117" width="38" height="4" fill="#fff">
-        <animate attributeName="x" from="100" to="600" dur="2s" repeatCount="indefinite" />
-      </rect>
-      <rect x="200" y="117" width="38" height="4" fill="#fff">
-        <animate attributeName="x" from="200" to="700" dur="2s" repeatCount="indefinite" />
-      </rect>
-      <rect x="300" y="117" width="38" height="4" fill="#fff">
-        <animate attributeName="x" from="300" to="800" dur="2s" repeatCount="indefinite" />
-      </rect>
-    </g>
-    <!-- Game Title -->
-    <text x="250" y="60" text-anchor="middle" fill="#fff" font-family="Verdana" font-size="28" font-weight="bold" letter-spacing="2">
-      🚦 GitHub Racer 🚗
-    </text>
-    <!-- Level Up (animated text) -->
-    <text x="250" y="90" text-anchor="middle" fill="#FFD700" font-family="Verdana" font-size="18" font-weight="bold" letter-spacing="2">
-      <tspan>
-        <animate attributeName="opacity" values="0;1;0" keyTimes="0;0.3;1" dur="4s" repeatCount="indefinite" begin="2s"/>
-        LEVEL UP!
-      </tspan>
-    </text>
-  </svg>
-</p>
-
-<!-- Confetti Effect Animation -->
-<p align="center">
-  <svg width="400" height="100" viewBox="0 0 400 100">
-    <g>
-      <circle cx="50" cy="10" r="3" fill="#FF3B3F">
-        <animate attributeName="cy" values="10;90" dur="1.6s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="150" cy="10" r="3" fill="#FFD700">
-        <animate attributeName="cy" values="10;90" dur="1.3s" repeatCount="indefinite" begin="0.3s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.3s" repeatCount="indefinite" begin="0.3s"/>
-      </circle>
-      <circle cx="250" cy="10" r="3" fill="#00FFAB">
-        <animate attributeName="cy" values="10;90" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.5s" repeatCount="indefinite" begin="0.6s"/>
-      </circle>
-      <circle cx="350" cy="10" r="3" fill="#00BFFF">
-        <animate attributeName="cy" values="10;90" dur="1.2s" repeatCount="indefinite" begin="0.2s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.2s" repeatCount="indefinite" begin="0.2s"/>
-      </circle>
-      <rect x="80" y="10" width="5" height="5" fill="#9B30FF">
-        <animate attributeName="y" values="10;90" dur="1.7s" repeatCount="indefinite" begin="0.4s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.7s" repeatCount="indefinite" begin="0.4s"/>
-      </rect>
-      <rect x="180" y="10" width="5" height="5" fill="#FF8C00">
-        <animate attributeName="y" values="10;90" dur="1.2s" repeatCount="indefinite" begin="0.8s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.2s" repeatCount="indefinite" begin="0.8s"/>
-      </rect>
-      <rect x="280" y="10" width="5" height="5" fill="#39FF14">
-        <animate attributeName="y" values="10;90" dur="1.4s" repeatCount="indefinite" begin="1.1s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.4s" repeatCount="indefinite" begin="1.1s"/>
-      </rect>
-      <rect x="380" y="10" width="5" height="5" fill="#FFC0CB">
-        <animate attributeName="y" values="10;90" dur="1.5s" repeatCount="indefinite" begin="0.7s"/>
-        <animate attributeName="opacity" values="1;0" dur="1.5s" repeatCount="indefinite" begin="0.7s"/>
-      </rect>
-    </g>
-    <text x="200" y="55" text-anchor="middle" fill="#222" font-family="Verdana" font-size="20" font-weight="bold">
-      🎉 Achievement Unlocked! 🎉
-    </text>
-  </svg>
-</p>
-
-<!--
-Want to connect or know more? Add your social links or a fun fact here!
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
