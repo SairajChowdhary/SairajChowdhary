@@ -32,7 +32,7 @@
 🎯 Problem-solving • 📊 Data Visualization
 
 ---
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=I+love+to+create+cool+data+projects!;Always+learning+something+new.;Let's+connect+and+build+something+awesome!" alt="Animated Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7B42C&background=FFFFFF00&center=true&vCenter=true&width=600&lines=I+love+to+create+cool+data+projects!;Always+learning+something+new.;Let's+connect+and+build+something+awesome!;May+peace+be+amplified;World+be+rectified" alt="Animated Typing SVG" />
 
 <h1 align="center">Hey checkout my work?</h1>
 <h2 align="center"> I've worked on data mining</h2>
