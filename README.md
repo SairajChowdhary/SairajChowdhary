@@ -59,7 +59,7 @@
   />
 </picture>
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/135/135971.gif"  />
+<img align="right" height="350" src="https://giffiles.alphacoders.com/135/135971.gif"  />
 
 ###
 
