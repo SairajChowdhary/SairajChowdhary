@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
 
-#  🙏 నమస్తే, I'm Sairaj Chowdhary!
+#  This is Sairaj Chowdhary!
 <img width="250" height="250" alt="ChatGPT Image Sep 1, 2025, 11_07_02 PM" src="https://github.com/user-attachments/assets/2f2bb63c-4310-4f23-bb00-2d3c70ec45ad" />
 
 
