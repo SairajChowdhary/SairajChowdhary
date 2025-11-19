@@ -80,11 +80,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://makeagif.com/i/ZCsjru](https://i.gifer.com/7R6T.gif" alt="Future" />
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sairaj-Chowdhary) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Dantevale333) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31246691) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=simple-icons&logoColor=white)](https://x.com/LucasDopamine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dantevale333@gmail.com) 
 
